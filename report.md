@@ -4,7 +4,7 @@
 **Authors:**
     - Timothy Obote 666548
     - Justin Malu 660955
-    - Tevin
+    - Tevin Kagotho 661445
     
 
 ## Executive Summary
