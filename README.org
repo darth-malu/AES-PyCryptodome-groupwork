@@ -4,4 +4,6 @@ PyCryptodome Assignment
 
 Members:
 + Justin Malu - 66055
++ Timothy Obote - 666548
++ Tevin 
 
